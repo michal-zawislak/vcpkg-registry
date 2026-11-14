@@ -1,0 +1,5 @@
+mz-cmake-helpers is a host-only CMake helper package.
+
+  find_package(mz-cmake-helpers CONFIG REQUIRED
+    PATHS "${VCPKG_INSTALLED_DIR}/${VCPKG_HOST_TRIPLET}/share"
+    NO_DEFAULT_PATH NO_CMAKE_FIND_ROOT_PATH)

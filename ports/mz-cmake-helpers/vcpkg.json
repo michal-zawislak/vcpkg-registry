@@ -1,0 +1,7 @@
+{
+  "name": "mz-cmake-helpers",
+  "version": "0.1.0",
+  "description": "Personal CMake helper scripts (host only, no target artifacts)",
+  "homepage": "https://github.com/michal-zawislak/cmake-helpers",
+  "license": "MIT"
+}
